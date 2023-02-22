@@ -1,0 +1,42 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(İ¢çÒ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÌœÈÈşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Îñë
+N	java:S106("9Replace this use of System.out or System.err by a logger.(½ÈØ‘
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(²‘¼‚úÿÿÿÿ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(áÚõùÿÿÿÿ
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(½ÈØ‘
+N	java:S106V"9Replace this use of System.out or System.err by a logger.(½ÈØ‘
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(Ùƒıˆøÿÿÿÿ
+N	java:S106n"9Replace this use of System.out or System.err by a logger.(½ÈØ‘
+N	java:S106}"9Replace this use of System.out or System.err by a logger.(½ÈØ‘
+T	java:S106€"9Replace this use of System.out or System.err by a logger.(òÖÑ‹ûÿÿÿÿ
+O	java:S106’"9Replace this use of System.out or System.err by a logger.(½ÈØ‘
+T	java:S106•"9Replace this use of System.out or System.err by a logger.(òÖÑ‹ûÿÿÿÿ
+O	java:S106§"9Replace this use of System.out or System.err by a logger.(Ïë‰
+O	java:S106«"9Replace this use of System.out or System.err by a logger.(É’Äˆ
+T	java:S106²"9Replace this use of System.out or System.err by a logger.(†‚Õ†øÿÿÿÿ
+k
+java:S11921"UDefine a constant instead of duplicating this literal "WebStorageClient/1.0" 6 times.(Ò…¯«
+g
+java:S11920"QDefine a constant instead of duplicating this literal "application/json" 6 times.(€«…®
+]
+java:S11920"GDefine a constant instead of duplicating this literal "Accept" 6 times.(€«…®
+e
+java:S11923"JDefine a constant instead of duplicating this literal "User-name" 6 times.(á‹É¯ÿÿÿÿÿ
+h
+java:S1192("RDefine a constant instead of duplicating this literal "Enter file name: " 6 times.(½ÈØ‘
+j
+java:S11922"ODefine a constant instead of duplicating this literal "Accept-charset" 6 times.(¼Ğôøÿÿÿÿ
+a
+java:S11921"KDefine a constant instead of duplicating this literal "User-agent" 6 times.(Ò…¯«
+a
+java:S11922"FDefine a constant instead of duplicating this literal "utf-8" 6 times.(¼Ğôøÿÿÿÿ
+J
+java:S1121ª".Extract the assignment out of this expression.(Ä¥Ô£ıÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+d
+java:S20959"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ØŸšõ
+l
+java:S2095"QUse try-with-resources or close this "CloseableHttpClient" in a "finally" clause.(·ŒôÊÿÿÿÿÿ
